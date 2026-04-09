@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gusta\\OneDrive\\Desktop\\tes\\aula5\\Main\\Main.csproj": {}
+    "C:\\Users\\Gusta\\OneDrive\\Desktop\\tes\\tes-2026\\aula5\\aula5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gusta\\OneDrive\\Desktop\\tes\\aula5\\Main\\Main.csproj": {
+    "C:\\Users\\Gusta\\OneDrive\\Desktop\\tes\\tes-2026\\aula5\\aula5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gusta\\OneDrive\\Desktop\\tes\\aula5\\Main\\Main.csproj",
-        "projectName": "Main",
-        "projectPath": "C:\\Users\\Gusta\\OneDrive\\Desktop\\tes\\aula5\\Main\\Main.csproj",
+        "projectUniqueName": "C:\\Users\\Gusta\\OneDrive\\Desktop\\tes\\tes-2026\\aula5\\aula5.csproj",
+        "projectName": "aula5",
+        "projectPath": "C:\\Users\\Gusta\\OneDrive\\Desktop\\tes\\tes-2026\\aula5\\aula5.csproj",
         "packagesPath": "C:\\Users\\Gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gusta\\OneDrive\\Desktop\\tes\\aula5\\Main\\obj\\",
+        "outputPath": "C:\\Users\\Gusta\\OneDrive\\Desktop\\tes\\tes-2026\\aula5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
