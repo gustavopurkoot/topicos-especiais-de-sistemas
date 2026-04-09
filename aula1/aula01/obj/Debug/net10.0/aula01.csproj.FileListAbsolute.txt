@@ -1,0 +1,14 @@
+C:\Users\Gusta\OneDrive\Desktop\C#\tes\aula1\aula01\bin\Debug\net10.0\aula01.exe
+C:\Users\Gusta\OneDrive\Desktop\C#\tes\aula1\aula01\bin\Debug\net10.0\aula01.deps.json
+C:\Users\Gusta\OneDrive\Desktop\C#\tes\aula1\aula01\bin\Debug\net10.0\aula01.runtimeconfig.json
+C:\Users\Gusta\OneDrive\Desktop\C#\tes\aula1\aula01\bin\Debug\net10.0\aula01.dll
+C:\Users\Gusta\OneDrive\Desktop\C#\tes\aula1\aula01\bin\Debug\net10.0\aula01.pdb
+C:\Users\Gusta\OneDrive\Desktop\C#\tes\aula1\aula01\obj\Debug\net10.0\aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gusta\OneDrive\Desktop\C#\tes\aula1\aula01\obj\Debug\net10.0\aula01.AssemblyInfoInputs.cache
+C:\Users\Gusta\OneDrive\Desktop\C#\tes\aula1\aula01\obj\Debug\net10.0\aula01.AssemblyInfo.cs
+C:\Users\Gusta\OneDrive\Desktop\C#\tes\aula1\aula01\obj\Debug\net10.0\aula01.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\OneDrive\Desktop\C#\tes\aula1\aula01\obj\Debug\net10.0\aula01.dll
+C:\Users\Gusta\OneDrive\Desktop\C#\tes\aula1\aula01\obj\Debug\net10.0\refint\aula01.dll
+C:\Users\Gusta\OneDrive\Desktop\C#\tes\aula1\aula01\obj\Debug\net10.0\aula01.pdb
+C:\Users\Gusta\OneDrive\Desktop\C#\tes\aula1\aula01\obj\Debug\net10.0\aula01.genruntimeconfig.cache
+C:\Users\Gusta\OneDrive\Desktop\C#\tes\aula1\aula01\obj\Debug\net10.0\ref\aula01.dll
