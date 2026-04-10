@@ -69,32 +69,42 @@ class Program
             Console.WriteLine("0 - Sair");
             opcao = int.Parse(Console.ReadLine());
 
-            if (opcao == 1)
+            switch (opcao)
             {
-                Livro l = new Livro();
+                case 1:
+                    Livro l = new Livro();
 
-                Console.Write("Título: ");
-                l.Titulo = Console.ReadLine();
+                    Console.Write("Título: ");
+                    l.Titulo = Console.ReadLine();
 
-                Console.Write("Preço: ");
-                l.Preco = double.Parse(Console.ReadLine());
+                    Console.Write("Preço: ");
+                    l.Preco = double.Parse(Console.ReadLine());
 
-                carrinho.AdicionarLivro(l);
-            }
-            else if (opcao == 2)
-            {
-                Console.Write("Índice do livro: ");
-                int i = int.Parse(Console.ReadLine());
+                    carrinho.AdicionarLivro(l);
+                    break;
 
-                carrinho.RemoverLivro(i);
-            }
-            else if (opcao == 3)
-            {
-                carrinho.ExibirCarrinho();
-            }
-            else if (opcao == 4)
-            {
-                Console.WriteLine("Total: R$ " + carrinho.CalcularTotal());
+                case 2:
+                    Console.Write("Índice do livro: ");
+                    int i = int.Parse(Console.ReadLine());
+
+                    carrinho.RemoverLivro(i);
+                    break;
+
+                case 3:
+                    carrinho.ExibirCarrinho();
+                    break;
+
+                case 4:
+                    Console.WriteLine("Total: R$ " + carrinho.CalcularTotal());
+                    break;
+
+                case 0:
+                    Console.WriteLine("Saindo...");
+                    break;
+
+                default:
+                    Console.WriteLine("Opção Inválida!");
+                    break;
             }
 
         } while (opcao != 0);
