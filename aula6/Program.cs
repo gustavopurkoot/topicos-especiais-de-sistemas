@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 class Produto
 {
+    // public string Nome{get; set;} getters e setters automáticos
     public string Nome;
     public double Preco;
     public int Quantidade;
@@ -20,7 +21,7 @@ class Program
 {
     static void Main()
     {
-        List<Produto> produtos = new List<Produto>();
+        List<Produto> produtos = new List<Produto>(); // <> = diamante genérico, tipo de dado que a lista vai armazenar
 
         int opcao = 0;
 
@@ -61,7 +62,7 @@ class Program
 
                 Console.WriteLine("Produto cadastrado!");
             }
-            else if (opcao == 2)
+            else if (opcao == 2)   
             {
                 foreach (Produto p in produtos)
                 {
