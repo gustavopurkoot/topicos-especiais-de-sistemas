@@ -1,0 +1,14 @@
+C:\Users\Gusta\OneDrive\Desktop\tes\lista\02\bin\Debug\net10.0\02.exe
+C:\Users\Gusta\OneDrive\Desktop\tes\lista\02\bin\Debug\net10.0\02.deps.json
+C:\Users\Gusta\OneDrive\Desktop\tes\lista\02\bin\Debug\net10.0\02.runtimeconfig.json
+C:\Users\Gusta\OneDrive\Desktop\tes\lista\02\bin\Debug\net10.0\02.dll
+C:\Users\Gusta\OneDrive\Desktop\tes\lista\02\bin\Debug\net10.0\02.pdb
+C:\Users\Gusta\OneDrive\Desktop\tes\lista\02\obj\Debug\net10.0\02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gusta\OneDrive\Desktop\tes\lista\02\obj\Debug\net10.0\02.AssemblyInfoInputs.cache
+C:\Users\Gusta\OneDrive\Desktop\tes\lista\02\obj\Debug\net10.0\02.AssemblyInfo.cs
+C:\Users\Gusta\OneDrive\Desktop\tes\lista\02\obj\Debug\net10.0\02.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\OneDrive\Desktop\tes\lista\02\obj\Debug\net10.0\02.dll
+C:\Users\Gusta\OneDrive\Desktop\tes\lista\02\obj\Debug\net10.0\refint\02.dll
+C:\Users\Gusta\OneDrive\Desktop\tes\lista\02\obj\Debug\net10.0\02.pdb
+C:\Users\Gusta\OneDrive\Desktop\tes\lista\02\obj\Debug\net10.0\02.genruntimeconfig.cache
+C:\Users\Gusta\OneDrive\Desktop\tes\lista\02\obj\Debug\net10.0\ref\02.dll
