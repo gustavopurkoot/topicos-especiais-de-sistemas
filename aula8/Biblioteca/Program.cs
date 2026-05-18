@@ -9,7 +9,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-List<Livro> livros = new List<Livro>();
+var livros = new List<Livro>();
 
 app.MapPost("/adicionar", (Livro livro) =>
 {
@@ -23,7 +23,7 @@ app.MapGet("/BuscarPorTitulo/{titulo}", (string titulo) =>
 {
     foreach (Livro livro in livros)
     {
-        if (livro.Titulo == titulo)
+        if (livro.Titulo.ToLower() == titulo.ToLower())
         {
             return Results.Ok(livro);
         }
@@ -33,7 +33,7 @@ app.MapGet("/BuscarPorTitulo/{titulo}", (string titulo) =>
 
 app.MapGet("/BuscarPorDisponiveis/{disponivel}", (bool disponivel) =>
 {
-    List<Livro> livrosDisponiveis = new List<Livro>();
+    var livrosDisponiveis = new List<Livro>();
 
     foreach (Livro livro in livros)
     {
